@@ -1,0 +1,13 @@
+{
+	"name": "GroupCode",
+	"description": "Interactive Code Editor",
+	"author": "Mark Westbrook",
+	"publishDate": "10/10/2010",
+	"permissions": [
+		{
+			"name": "Admin",
+			"description": "Allowed to start a game",
+			"max": 1
+		}
+	]
+}
